@@ -1,0 +1,17 @@
+Feedback:
+ 1. We should record these and keep them for future. also good to see ourselves doing such lectures.
+ 2. It's a good idea to explain environment first a little bit - i.e., we will be using an app that shortens URLs and give a small overview about what it does; Draw difference between lecture subject vs secondary stuff that we don't care much about for the topic and is just there as helpers.
+ 3. Explain roughly what we will be doing in the test session and topics we will touch.
+ 4. You can ask members of audience to answer something that you just spoke about to make sure they listen
+ 5. Share the code you wrote/did with people so we can use it as a reference when playing around instead of having to write it from scratch ourselves.
+ 6. Have a rough plan written down on the paper in case you get side-tracked or not sure where to go next.
+ This workshop/lecture specific stuff that would have been nice:
+ Explain what is pytest specific vs standard tests
+ Give a rough summary of syntax/differences if everyone knows the base thing (i.e., instead of writing unittest.assertEqual just write "assert x")
+ List some plugins / marks that are pre-defined at the start (something that is most often used in everyday)
+ Really Good:
+ Explained what you do with some context and walking through the code (i.e., string imports + ascii_letters, or what -s flag does etc) (edited) 
+12:52
+Overall though, it was good, and I liked it! And don't worry, if you haven't done this often before, it seems worse to yourself than it was, and with some practice should become very smooth :slightly_smiling_face:
+
+

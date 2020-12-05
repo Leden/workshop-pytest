@@ -1,0 +1,4 @@
+The might and magic of pytest
+
+pytest -- test framework for Python
+https://docs.pytest.org
